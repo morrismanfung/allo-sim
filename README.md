@@ -6,4 +6,4 @@ This project aims to build a simple tool kit for simulating performance of asset
 
 ## Model
 
-Gaussian Mixture Hidden Markov Model is used in this project. It is assumed that asset's performance is dependant on an unobserved state (similar to the concept of bull vs bear market). A Markov model will be trained using historical data and used to simulate future performance by random sampling.
+Gaussian Hidden Markov Model and Gaussian Mixture Hidden Markov Model are used in this project. It is assumed that asset's performance is dependant on an unobserved state (similar to the concept of bull vs bear market). A Markov model will be trained using historical data and used to simulate future performance by random sampling.
